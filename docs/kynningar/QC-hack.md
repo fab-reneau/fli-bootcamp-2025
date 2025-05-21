@@ -114,3 +114,5 @@ Með þessum breytingum getur þú stillt spennu með potentiometer á hvaða gi
 Þetta hleðslutæki styður t.d. bara við upp að 12V output.
 
 ![type:video](../videos/useful/QC_multimeter.mp4)
+
+[Ensku Skjöl](https://fabacademy.org/2025/labs/reykjavik/useful_stuff/03_QC_Hack/)
